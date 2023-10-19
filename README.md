@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Hirarito Ryutaaa</h1>
+<h1 align="center">Hi 👋, I'm Hirarito Ryutaaa (リュタ)</h1>
 <h3 align="center">someone who wants to develop themselves better in the future</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuuutaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ryuuutaaa" /> </p>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ryuuutaaa&label=Profile%20views&color=0e75b6&style=flat" alt="ryuuutaaa" /></p>
 
 - 🌱 I’m currently learning **Advanced Javascript,React,ExpressJS,NodeJS,NEXTJS,TailwindCSS,Laravel**
 
@@ -23,4 +23,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ryuuutaaa&show_icons=true&locale=en&layout=compact" alt="ryuuutaaa" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuutaaa&show_icons=true&locale=en" alt="ryuuutaaa" /></p>
-
