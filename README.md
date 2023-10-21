@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Hirarito Ryutaaa (リュタ)</h1>
-<h3 align="center">someone who wants to develop themselves better in the future</h3>
+<h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
+
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
