@@ -1,5 +1,5 @@
-<h3 align="center">KAKA SIAPA NI???</h3>
-<img width="100%" alt="mahiru" src="https://media.tenor.com/QOtM1Uc2sHMAAAAd/reva-fidela-adel-pantjoro.gif">
+<h1 align="center">KAKAK SIAPA NI???</h1>
+<img width="100%" alt="mahiru" margin-bottom="200px" src="https://media.tenor.com/QOtM1Uc2sHMAAAAd/reva-fidela-adel-pantjoro.gif">
 
 
 <h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
