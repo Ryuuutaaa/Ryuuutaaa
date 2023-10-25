@@ -1,4 +1,4 @@
-<img width="100%" alt="mahiru" src="https://media.tenor.com/2XuDhhjIUlMAAAAC/tenshisama-shiina-mahiru.gif">
+<img width="100%" alt="mahiru" src="https://www.tiktok.com/@ritakaniska/video/7263022279087508742?is_from_webapp=1&sender_device=pc">
 
 
 <h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
