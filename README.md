@@ -1,4 +1,4 @@
-<img width="100%" alt="mahiru" src="https://www.tiktok.com/@ritakaniska/video/7263022279087508742?is_from_webapp=1&sender_device=pc">
+<img width="100%" alt="mahiru" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fadel-jkt48-gif-5036239262781599205&psig=AOvVaw1gXDu0j6KsUPoR6-EL31fd&ust=1698308466830000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPijyZjikIIDFQAAAAAdAAAAABAR">
 
 
 <h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
