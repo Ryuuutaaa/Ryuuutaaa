@@ -1,4 +1,4 @@
-<img width="100%" alt="mahiru" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ftenor.com%2Fview%2Fadel-jkt48-gif-5036239262781599205&psig=AOvVaw1gXDu0j6KsUPoR6-EL31fd&ust=1698308466830000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCPijyZjikIIDFQAAAAAdAAAAABAR">
+<img width="100%" alt="mahiru" src="https://media.tenor.com/ReRQ7SX47eUAAAAd/adel-jkt48.gif">
 
 
 <h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
