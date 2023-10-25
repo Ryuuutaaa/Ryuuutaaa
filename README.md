@@ -1,8 +1,8 @@
-<h2 align="center">KAKAK SIAPA NI???</h2>
-<img width="100%" alt="mahiru" src="https://media.tenor.com/QOtM1Uc2sHMAAAAd/reva-fidela-adel-pantjoro.gif">
+
+<img width="100%" alt="mahiru" src="https://media.tenor.com/QOtM1Uc2sHMAAAAd/reva-fidela-adel-pantjoro.gif"  margin-bottom ="100px">
 
 
-<h1 align="center" margin-top="100px"> Hirarito Ryutaaa (リュタ)</h1>
+<h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
 
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
