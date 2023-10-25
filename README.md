@@ -1,4 +1,4 @@
-<img width="100%" alt="mahiru" src="https://media.tenor.com/VuNe7PwAQqwAAAAM/mahiru-shiina.gif">
+<img width="100%" alt="mahiru" src="https://media.tenor.com/2XuDhhjIUlMAAAAC/tenshisama-shiina-mahiru.gif">
 
 
 <h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
