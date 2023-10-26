@@ -4,7 +4,6 @@
 
 <h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
 
-<img align="right" alt="Coding" width="200" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
 - 🌱  いましごと **Advanced Javascript,React,ExpressJS,NodeJS,NEXTJS,TailwindCSS,Laravel**
