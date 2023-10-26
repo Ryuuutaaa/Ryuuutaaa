@@ -7,15 +7,11 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
-- 🌱 I’m currently learning **Advanced Javascript,React,ExpressJS,NodeJS,NEXTJS,TailwindCSS,Laravel**
+- 🌱いましごと **Advanced Javascript,React,ExpressJS,NodeJS,NEXTJS,TailwindCSS,Laravel**
 
-- 👨‍💻 All of my projects are available at [https://ryuuutaaa.github.io/myryutaaa.github.io/](https://ryuuutaaa.github.io/myryutaaa.github.io/)
+- 👨‍💻 私 [https://ryuuutaaa.github.io/myryutaaa.github.io/](https://ryuuutaaa.github.io/myryutaaa.github.io/)
 
-- 💬 Ask me about **HTML,CSS, Bootstrap,**
-
-- 📫 How to reach me **rafiakmalwidikta@gmail.com**
-
-- ⚡ Fun fact **someone who wants to create a website using Japanese, きみのこおとがすきだから**
+- 　大序簿ですよ。今ダイジョブ。君がコットの時間をくれたことが。も。じぶんだ。きみのえらぶことわかっている。しんぱいするな。きみのしあわせが。ぼくにはすてきなことだ。ほんもののおとこ      はときのいたみを。なかまになれる。すきだよ。でも。もう。かもわない
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
