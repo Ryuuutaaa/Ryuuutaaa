@@ -7,11 +7,11 @@
 <img align="right" alt="Coding" width="200" src="https://media.tenor.com/flflC6GFzO8AAAAd/sultan-alrefaei-programmer.gif">
 
 
-- 🌱いましごと **Advanced Javascript,React,ExpressJS,NodeJS,NEXTJS,TailwindCSS,Laravel**
+- 🌱  いましごと **Advanced Javascript,React,ExpressJS,NodeJS,NEXTJS,TailwindCSS,Laravel**
 
-- 👨‍💻 私 [https://ryuuutaaa.github.io/myryutaaa.github.io/](https://ryuuutaaa.github.io/myryutaaa.github.io/)
+- 👨‍💻  私 [https://ryuuutaaa.github.io/myryutaaa.github.io/](https://ryuuutaaa.github.io/myryutaaa.github.io/)
 
-- 　だいじょですよ。いまだいじょぶ。きみがちょっとのじかんをくれたことが。も。じぶんだ。きみのえらぶことわかっている。しんぱいするな。きみのしあわせが。ぼくにはすてきなことだ。ほんもののおとこ      はときのいたみを。なかまになれる。すきだよ。でも。もう。かもわない
+- 🔊  だいじょですよ。いまだいじょぶ。きみがちょっとのじかんをくれたことが。も。じぶんだ。きみのえらぶことわかっている。しんぱいするな。きみのしあわせが。ぼくにはすてきなことだ。ほんもののおとこ      はときのいたみを。なかまになれる。すきだよ。でも。もう。かもわない
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
