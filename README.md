@@ -1,11 +1,11 @@
 
 <img width="100%" alt="mahiru" src="https://media.tenor.com/QOtM1Uc2sHMAAAAd/reva-fidela-adel-pantjoro.gif">
-
+<img width="10%" align="right" alt="mahiru" src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif">
 
 
 <h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
 
-<img width="10%" align="right" alt="mahiru" src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif">
+
 
 - 🌱  いましごと **Advanced Javascript,React,ExpressJS,NodeJS,NEXTJS,TailwindCSS,Laravel**
 
