@@ -5,7 +5,7 @@
 
 <h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
 
-<img width="10%" align="right" alt="mahiru" src="https://i.pinimg.com/originals/c4/a8/de/c4a8dee7fb9b37a361159f61e55be7c4.gif">
+<img width="10%" align="right" alt="mahiru" src="https://media.tenor.com/0hjOGLFaQa0AAAAd/lofi-girl-lofi.gif">
 
 - 🌱  いましごと **Advanced Javascript,React,ExpressJS,NodeJS,NEXTJS,TailwindCSS,Laravel**
 
