@@ -1,5 +1,6 @@
 
 <img width="100%" alt="mahiru" src="https://media.tenor.com/QOtM1Uc2sHMAAAAd/reva-fidela-adel-pantjoro.gif">
+<img width="100%" alt="mahiru" src="https://i.pinimg.com/originals/6c/d0/ee/6cd0ee0b5c3c69d4e42817899de91fe8.gif">
 
 
 <h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
