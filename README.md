@@ -19,6 +19,6 @@
     <i>"Im not a genius Im just currius"</i>
   </b>
   </h1>
-  <p align="center">-albert einstein</p>
+  <p align="center"><b>-albert einstein</b></p>
 </div>
 
