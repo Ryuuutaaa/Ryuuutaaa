@@ -16,7 +16,7 @@
 <div align="center">
   <h1>
     <b>
-    <i>"Im not a genius, Im just currius"</i>
+    <i>"Im not a genius <br> Im just currius"</i>
   </b>
   </h1>
   <p align="center">-albert einstein</p>
