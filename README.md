@@ -13,9 +13,12 @@
 - 🎶  あたしのうた　https://open.spotify.com/playlist/2Q6gz1oXFU8BHvoqBgBHZU?si=8910e4e4f4ac4a0b
 - 🔊  だいじょですよ。いまだいじょぶ。きみがちょっとのじかんをくれたことが。も。じぶんだ。きみのえらぶことわかっている。しんぱいするな。きみのしあわせが。ぼくにはすてきなことだ。ほんもののおとこ      はときのいたみを。なかまになれる。すきだよ。でも。もう。かもわない
 
-<h1 align="center">
-  <b>
+<div align="center">
+  <h1>
+    <b>
     <i>"Im not a genius, Im just currius"</i>
   </b>
-</h1>
-<p align="center">-albert einstein</p>
+  </h1>
+  <p align="center">-albert einstein</p>
+</div>
+
