@@ -22,3 +22,5 @@
   <p align="center"><b>- Albert Einstein</b></p>
 </div>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ryuuutaaa&show_icons=true&theme=dark&locale=en" alt="ryuuutaaa" /></p>
+
