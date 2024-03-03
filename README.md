@@ -3,7 +3,7 @@
 
 
 
-<h1 align="center"> Hirarito Ryutaaa (リュタ)</h1>
+<h3 align="center"> Hirarito Ryutaaa (リュタ)</h3>
 
 
 
