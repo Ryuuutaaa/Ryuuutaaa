@@ -9,7 +9,7 @@
 
 - 🌱  いましごと **なんでもない**
 
-- 👨‍💻  私 https://hrrtryutaaa.vercel.app/
+- 👨‍💻  私 https://ryuuutaaa.github.io/
 - 🎶  あたしのうた　https://open.spotify.com/playlist/2Q6gz1oXFU8BHvoqBgBHZU?si=8910e4e4f4ac4a0b
 - 🔊  だいじょですよ。いまだいじょぶ。きみがちょっとのじかんをくれたことが。も。じぶんだ。きみのえらぶことわかっている。しんぱいするな。きみのしあわせが。ぼくにはすてきなことだ。ほんもののおとこ      はときのいたみを。なかまになれる。すきだよ。でも。もう。かもわない
 
