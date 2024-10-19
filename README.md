@@ -1,1 +1,1 @@
-<img src="https://c.tenor.com/wc8znaLAgmcAAAAC/tenor.gif" alt="angela christy"  width="500px" />
+<img src="https://c.tenor.com/wc8znaLAgmcAAAAC/tenor.gif" alt="angela christy"  width="100%" />
