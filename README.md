@@ -1,5 +1,5 @@
 <img src="https://c.tenor.com/wc8znaLAgmcAAAAC/tenor.gif" alt="angela christy"  width="100%" />
 <br />
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ryuuutaaa&theme=radical&margin-w=10&rank=A,AA,AAA,S,SS,SSS,?&row=2&column=3%22%20alt=%22Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ryuuutaaa&theme=dark" />
 </p>
