@@ -7,7 +7,7 @@
 
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuuutaaa&" alt="ryuuutaaa" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuuutaaa" alt="ryuuutaaa" /></p>
 
 
 
