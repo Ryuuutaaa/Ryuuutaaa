@@ -1,4 +1,4 @@
-<img src="https://c.tenor.com/wc8znaLAgmcAAAAC/tenor.gif" alt="angela christy"  width="100%" />
+<img src="https://c.tenor.com/wc8znaLAgmcAAAAC/tenor.gif" alt="angela christy"  width="900%" />
 <br />
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=Ryuuutaaa&theme=dark" width="600%" />
