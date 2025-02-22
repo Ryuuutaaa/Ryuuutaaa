@@ -10,7 +10,7 @@
 
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ryuuutaaa&" alt="ryuuutaaa" /></p>
-
+<br />
 <img src="https://media1.tenor.com/m/g1jVZJVQ7rIAAAAC/angelina-christy-christy-jkt48.gif" alt="angela christy"  width="800%" />
 
 
