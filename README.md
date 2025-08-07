@@ -1,3 +1,8 @@
+<div align="center">
+  <img src="https://github.com/Ryuuutaaa/Ryuuutaaa/blob/main/Frame 1.png" />
+</div>
+<br />
+
 <img src="https://c.tenor.com/wc8znaLAgmcAAAAC/tenor.gif" alt="angela christy"  width="800%" />
 <br />
 <p align="center">
