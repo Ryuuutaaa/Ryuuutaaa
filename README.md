@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Ryuuutaaa/Ryuuutaaa/blob/main/Frame 1.png" />
+  <img src="https://github.com/Ryuuutaaa/Ryuuutaaa/blob/main/frame2.png" />
 </div>
 <br />
 
