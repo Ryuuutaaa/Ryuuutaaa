@@ -3,10 +3,8 @@
 </div>
 <br />
 
-<div align="center>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryuuutaaa&theme=dracula&hide_border=true&hide_title=false&area=true&radius=12&line=E7799C&bg_color=292A36&title_color=E7799C&point=FFFFFF" height="" alt="activity-graph graph"  />
-<br />
-</div>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ryuuutaaa&theme=dracula&hide_border=true&hide_title=false&area=true&radius=12&line=E7799C&bg_color=292A36&title_color=E7799C&point=FFFFFF" height="" alt="activity-graph graph"  />
+
 
 
 <p align="center">
