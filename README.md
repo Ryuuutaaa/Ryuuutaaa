@@ -14,8 +14,6 @@
 <br />
 
 
-## 🚀 Featured Projects
-
 ## 🚀 Projects
 
 | Project | Deskripsi | Tech Stack | Link |
