@@ -18,7 +18,7 @@
 
 <table>
   <tr>
-    <td width="50%">
+    <td width="50%" margin="3">
       <h3 align="center">Nama Project 1</h3>
       <p align="center">Deskripsi singkat tentang project ini</p>
       <p align="center">
@@ -29,7 +29,7 @@
         <a href="#">🔗 Live Demo</a> · <a href="#">📁 Source Code</a>
       </p>
     </td>
-    <td width="50%">
+    <td width="50%" margin="3">
       <h3 align="center">Nama Project 2</h3>
       <p align="center">Deskripsi singkat tentang project ini</p>
       <p align="center">
