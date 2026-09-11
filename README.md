@@ -16,7 +16,9 @@
 
 ## 🚀 Featured Projects
 
-<table>
+## 🚀 Featured Projects
+
+<table cellspacing="20" cellpadding="15">
   <tr>
     <td width="50%">
       <h3 align="center">Nama Project 1</h3>
@@ -29,6 +31,7 @@
         <a href="#">🔗 Live Demo</a> · <a href="#">📁 Source Code</a>
       </p>
     </td>
+    <td width="20"></td>
     <td width="50%">
       <h3 align="center">Nama Project 2</h3>
       <p align="center">Deskripsi singkat tentang project ini</p>
@@ -41,7 +44,6 @@
     </td>
   </tr>
 </table>
-
 
 
 
